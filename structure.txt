@@ -1,0 +1,12 @@
+CSS-Snippet-Generator-Tool/
+├── index.html
+├── styles/
+│   ├── styles.css
+│   ├── dark-mode.css
+├── scripts/
+│   ├── app.js
+│   ├── css-generator.js
+│   ├── jszip.min.js
+├── assets/
+│   └── icons/
+├── README.md
