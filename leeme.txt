@@ -1,0 +1,20 @@
+# CSS Snippet Generator Tool
+
+**Versión:** 2.1  
+**Revisión:** Rev 1.1  
+
+## Descripción
+Una herramienta para generar CSS dinámico para botones, tipografía y más. Ideal para diseñadores y desarrolladores que necesitan una forma rápida de prototipar estilos.
+
+## Funcionalidades
+- Modo oscuro.
+- Estilos dinámicos para botones y tipografía.
+- Vista previa en tiempo real.
+- Exportación de estilos como archivos CSS y HTML.
+
+## Estructura
+- **HTML:** Estructura base de la herramienta.
+- **CSS:** Archivos para estilos base y modo oscuro.
+- **JavaScript:** Control dinámico e inyección de estilos.
+
+---

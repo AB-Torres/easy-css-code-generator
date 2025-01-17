@@ -1,0 +1,73 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment configuration files
+.env
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node.js dependencies
+node_modules/
+*.log
+
+# Build and cache directories
+build/
+dist/
+.cache/
+
+# Git-related files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Preprocessor and compiler files
+.sass-cache/
+*.scssc
+
+# Testing-related files
+coverage/
+__pycache__/
+*.pyc
+
+# Generated files
+*.gz
+*.zip
+*.tar
+*.tgz
+
+# Firebase-related files
+firebase-debug.log
+.firebaserc
+
+# Package manager files
+package-lock.json
+yarn.lock
+
+# Build tool settings
+.parcel-cache/
+
+# Manually included vendor libraries
+/public/vendor/
+
+# Sensitive files (optional)
+*.key
+*.crt
+
+# Visual Studio Code settings
+.vscode/
+
+# Output files
+output/
+export/
